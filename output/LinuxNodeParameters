@@ -1,0 +1,30 @@
+#####################################################################
+######                                                         ######
+######       Values of several parameters of a linux node      ######
+######       --------------------------------------------      ######
+
+
+ 01.1.  CPU Speed (processor-00) : 2300.0 MHz
+    2.  CPU Speed (processor-01) : 900.0 MHz
+    3.  CPU Speed (processor-02) : 2400.0 MHz
+    4.  CPU Speed (processor-03) : 2400.0 MHz
+ 02.    No of CPU cores : 4
+ 03.    CPU architecture : amd64
+ 04.1.  CPU options (processor-00) : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap 
+    2.  CPU options (processor-01) : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap 
+    3.  CPU options (processor-02) : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap 
+    4.  CPU options (processor-03) : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap 
+ 05.    CPU vendor : GenuineIntel
+ 06.    CPU model name : Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz
+ 07.    Free CPU : 54.67 %
+ 08.1.  CPU Load (1 min)  : 0.42
+    2.  CPU Load (5 min)  : 0.4
+    3.  CPU Load (15 min) : 0.3
+ 08.    Cache Size : null null
+ 09.    Total Memory : 11917 MB
+ 10.    Free Memory  : 8837 MB
+ 11.    Total disk space of root partition : 274 GB
+ 12.    Free disk space of root partition : 268 GB
+ 13.    Operating System Type : Linux
+ 14.    Kernel Version : 3.13.0-71-generic
+ 15.    Number of Running Processes : 190
