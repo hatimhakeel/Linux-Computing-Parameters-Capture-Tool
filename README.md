@@ -5,5 +5,5 @@ node. It was written sometime ago. The current version has many code smells remo
 
 Possible future additions
 
-1) Further refactoring
-2) Mavenifying (Wonder if it's the correct way to call it :))
+1. Further refactoring
+2. Mavenifying (Wonder if it's the correct way to call it :))
